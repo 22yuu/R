@@ -1,27 +1,27 @@
 {
-    "id": "22EA3CAE",
-    "path": "C:/Users/bigdata.DESKTOP-61ML0B4/Desktop/workspace/R/Ch02/2_1_Vector.R",
-    "project_path": "2_1_Vector.R",
+    "id": "79F16DEC",
+    "path": "C:/Users/bigdata.DESKTOP-61ML0B4/Desktop/workspace/R/Ch02/2_4_DataFrame.R",
+    "project_path": "2_4_DataFrame.R",
     "type": "r_source",
-    "hash": "2314121720",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1624862453754.0,
+    "created": 1624864182296.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "cursorPosition": "41,0",
+        "scrollLine": "14"
     },
     "folds": "",
-    "lastKnownWriteTime": 1624863139,
+    "lastKnownWriteTime": 1624864936,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1624863139,
+    "last_content_update": 1624864936250,
     "read_only": false,
     "read_only_alternatives": []
 }
